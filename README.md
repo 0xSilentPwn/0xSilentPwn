@@ -1,6 +1,5 @@
 # 👋 Hi, I’m @Abhiraj Sakkarwar  
 
-![Banner](https://svg-banners.vercel.app/api?type=glitch&text=NightmareSpawn&width=1000&height=200)  
 
 ## 🕶️ About Me  
 - 🛡️ Passionate about **ethical hacking, penetration testing, and cybersecurity**.  
@@ -49,5 +48,3 @@
 _"I thrive in the shadows, breaking barriers while staying undetected. 🕶️💀"_  
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xSilentPwn&theme=dracula)  
-
-![Snake Animation](https://github.com/0xSilentPwn/0xSilentPwn/blob/output/github-contribution-grid-snake.svg)  
