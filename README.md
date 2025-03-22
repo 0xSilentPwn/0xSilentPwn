@@ -15,7 +15,9 @@
 🔹 **Currently Learning**: eJPT | Exploit Development | Network Security  
 
 ![Abhiraj Sakkarwar's Github Stats](https://github-readme-stats.vercel.app/api?username=0xSilentPwn&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSilentPwn&layout=compact&theme=radical&bg_color=0d1117&title_color=ff6e96&text_color=ffffff&border_color=ff6e96)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSilentPwn&layout=compact&theme=radical&bg_color=0d1117&title_color=ff6e96&text_color=ffffff&border_color=ff6e96) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xSilentPwn&theme=radical&background=0d1117&border=ff6e96)
+
 
 ---
 
@@ -46,6 +48,5 @@
 
 ## ⚡ Fun Fact  
 _"I thrive in the shadows, breaking barriers while staying undetected. 🕶️💀"_
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xSilentPwn&theme=radical&background=0d1117&border=ff6e96)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xSilentPwn&theme=dracula)  
