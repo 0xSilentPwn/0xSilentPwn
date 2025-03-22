@@ -27,21 +27,22 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & 📊 Most Used Languages
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSilentPwn&layout=compact&theme=radical&bg_color=0d1117&title_color=ff6e96&text_color=ffffff&icon_color=79ff97&border_color=ff6e96" height="170px"/>
   
-  <br>
-
-  <!-- Tech Stack -->
-  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Nmap-0078D3?style=for-the-badge&logo=nmap&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Metasploit-5C2019?style=for-the-badge&logo=metasploit&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Burp_Suite-FF6F02?style=for-the-badge&logo=burp-suite&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Wireshark-0078D7?style=for-the-badge&logo=wireshark&logoColor=white"></a>
+  <!-- Tech Stack (Vertical) -->
+  <p align="left">
+    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge
+    <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a><br>
+    <a href="#"><img src="https://img.shields.io/badge/Nmap-0078D4?style=for-the-badge&logo=nmap&logoColor=white"></a><br>
+    <a href="#"><img src="https://img.shields.io/badge/Metasploit-5C2019?style=for-the-badge&logo=metasploit&logoColor=white"></a><br>
+    <a href="#"><img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white"></a><br>
+    <a href="#"><img src="https://img.shields.io/badge/Wireshark-0078D7?style=for-the-badge&logo=wireshark&logoColor=white"></a>
+  </p>
 </p>
+
 
 
 
