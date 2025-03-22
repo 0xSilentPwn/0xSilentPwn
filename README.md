@@ -30,7 +30,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSilentPwn&theme=dark"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSilentPwn&layout=compact&theme=radical&bg_color=0d1117&title_color=ff6e96&text_color=ffffff&icon_color=79ff97&border_color=ff6e96" height="170px"/>
   
   <!-- Tech Stack (Vertical) -->
   <p align="left">
