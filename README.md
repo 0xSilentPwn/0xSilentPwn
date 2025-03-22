@@ -28,9 +28,6 @@
 ---
 
 ## 🛠️ Tech Stack
-
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSilentPwn&layout=compact&theme=radical&bg_color=0d1117&title_color=ff6e96&text_color=ffffff&icon_color=79ff97&border_color=ff6e96" height="170px"&card_width=500/>
   
   <!-- Tech Stack (Vertical) -->
   <p align="left">
@@ -42,8 +39,8 @@
   </p>
 </p>
 
-
-
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSilentPwn&layout=compact&theme=radical&bg_color=0d1117&title_color=ff6e96&text_color=ffffff&icon_color=79ff97&border_color=ff6e96" height="170px"/>
 
 
 ---
