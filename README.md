@@ -31,12 +31,12 @@
 
 <table>
   <tr>
-    <td>  
+    <td>
       ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
       ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
       ![Nmap](https://img.shields.io/badge/Nmap-0078D3?style=for-the-badge&logo=nmap&logoColor=white)  
-      ![Metasploit](https://img.shields.io/badge/Metasploit-5C2019?style=for-the-badge&logo=metasploit&logoColor=white)  
-      ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F02?style=for-the-badge&logo=burp-suite&logoColor=white)  
+      ![Metasploit](https://img.shields.io/badge/Metasploit-5C2019?style=for-the-badge&logo=metasploit&logoColor=white)
+      ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F02?style=for-the-badge&logo=burp-suite&logoColor=white)
       ![Wireshark](https://img.shields.io/badge/Wireshark-0078D7?style=for-the-badge&logo=wireshark&logoColor=white)  
     </td>
     <td>
