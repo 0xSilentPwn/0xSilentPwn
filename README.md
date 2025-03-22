@@ -45,6 +45,7 @@
 ---
 
 ## ⚡ Fun Fact  
-_"I thrive in the shadows, breaking barriers while staying undetected. 🕶️💀"_  
+_"I thrive in the shadows, breaking barriers while staying undetected. 🕶️💀"_
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xSilentPwn&theme=radical&background=0d1117&border=ff6e96)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xSilentPwn&theme=dracula)  
