@@ -35,7 +35,7 @@
   <!-- Tech Stack (Vertical) -->
   <p align="left">
     <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a><br>
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge
+    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge"></a><br>
     <a href="#"><img src="https://img.shields.io/badge/Metasploit-5C2019?style=for-the-badge&logo=metasploit&logoColor=white"></a><br>
     <a href="#"><img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white"></a><br>
     <a href="#"><img src="https://img.shields.io/badge/Wireshark-0078D7?style=for-the-badge&logo=wireshark&logoColor=white"></a>
