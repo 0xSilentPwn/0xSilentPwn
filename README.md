@@ -40,11 +40,13 @@
       ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F02?style=for-the-badge&logo=burp-suite&logoColor=white)  
       ![Wireshark](https://img.shields.io/badge/Wireshark-0078D7?style=for-the-badge&logo=wireshark&logoColor=white)  
     </td>
-    <td> 
+    <td>
+      ### 📊 Most Used Languages  
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSilentPwn&layout=compact&theme=radical&bg_color=0d1117&title_color=ff6e96&text_color=ffffff&icon_color=79ff97&border_color=ff6e96">
     </td>
   </tr>
 </table>
+
 
 
 
