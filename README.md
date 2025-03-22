@@ -14,9 +14,9 @@
 🔹 **Proficient in**: Windows & Web VAPT, OSINT, and Digital Forensics  
 🔹 **Currently Learning**: eJPT | Exploit Development | Network Security  
 
-![Abhiraj Sakkarwar's Github Stats](https://github-readme-stats.vercel.app/api?username=0xSilentPwn&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSilentPwn&layout=compact&theme=radical&bg_color=0d1117&title_color=ff6e96&text_color=ffffff&border_color=ff6e96) 
+![Abhiraj Sakkarwar's Github Stats](https://github-readme-stats.vercel.app/api?username=0xSilentPwn&show_icons=true&theme=radical&count_private=true&bg_color=0d1117&title_color=ff6e96&text_color=ffffff&icon_color=79ff97&border_color=ff6e96)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xSilentPwn&theme=radical&background=0d1117&border=ff6e96)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSilentPwn&layout=compact&theme=radical&bg_color=0d1117&title_color=ff6e96&text_color=ffffff&border_color=ff6e96) 
 
 
 ---
