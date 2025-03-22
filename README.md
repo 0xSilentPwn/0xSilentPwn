@@ -26,8 +26,8 @@
 - 👾 **Building and experimenting with cybersecurity tools and projects**.  
 
 ---
-
 ### ⚙️ Tech Stack  
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Nmap](https://img.shields.io/badge/Nmap-0078D3?style=for-the-badge&logo=nmap&logoColor=white)  
